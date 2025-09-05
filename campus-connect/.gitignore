@@ -1,0 +1,7 @@
+node_modules
+dist
+.env
+.vscode
+.DS_Store
+firebase/.env
+firebase/functions/node_modules
